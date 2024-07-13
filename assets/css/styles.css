@@ -1,0 +1,13 @@
+:root {
+  --index: rgb(255,70,125);
+  --index-op: rgba(255,70,125, 0.2);
+  --mars: rgb(255, 92, 92);
+  --mars-op: rgba(255, 92, 92, 0.2);
+  --matrix: rgb(3,255,144);
+  --matrix-op: rgba(3,255,144, 0.2);
+}
+
+body {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
