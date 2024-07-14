@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases a login page with a modern, abstract design. The page features a sleek, dark theme with geometric shapes and patterns that create a visually engaging user interface.
+A login page with a modern, abstract design. The page features a sleek, dark theme with geometric shapes and patterns that create a visually engaging user interface.
 
 > [!NOTE]
 > 
