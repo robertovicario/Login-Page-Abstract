@@ -10,7 +10,7 @@ This project showcases a login page with a modern, abstract design. The page fea
 
 ## Preview
 
-<img src="https://github.com/user-attachments/assets/1dcc0ce2-7b5b-4777-90be-97a9f65914f4" width=512>
+<img src="https://github.com/user-attachments/assets/26f349d1-720b-4588-a5fe-46cd2f35efbf" width=512>
 
 ## License
 
