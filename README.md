@@ -6,7 +6,7 @@ A login page with a modern, abstract design. The page features a sleek, dark the
 
 > [!NOTE]
 > 
-> Let's try this design here: [robertovicario.com/Login-Page-Abstract](https://www.robertovicario.com/Login-Page-Abstract)
+> Let's try this project here: [robertovicario.com/Login-Page-Abstract](https://www.robertovicario.com/Login-Page-Abstract)
 
 ## Preview
 
